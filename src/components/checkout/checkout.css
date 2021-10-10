@@ -44,3 +44,9 @@
     font-weight: 400;
     margin-bottom: 10px;
 }
+.checkout__title {
+    font-size:15px;
+    border-bottom: 1px solid lightgray;
+    margin-top: 5px;
+  }
+
